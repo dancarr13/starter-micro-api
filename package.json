@@ -10,4 +10,6 @@
   "license": "ISC",
   "dependencies": {
   }
+  "axios": "^1.4.0",
+  "@notionhq/client": "^2.2.9",
 }
